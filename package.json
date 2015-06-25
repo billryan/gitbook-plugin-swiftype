@@ -1,8 +1,8 @@
 {
     "name": "gitbook-plugin-swiftype",
-    "description": "Swiftype for your gitbook",
+    "description": "Swiftype for your gitbook with custom search engine",
     "main": "index.js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "gitbook": ">=0.4.6"
     },
