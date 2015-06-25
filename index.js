@@ -15,6 +15,7 @@ module.exports = {
                 if (!config.version) {
                 	config.version = '2.0.0';
                 }
+		version = "'" + config.version + "'";
 
                 return "<script>(function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){}})"
                 + "(w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);"
