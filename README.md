@@ -21,7 +21,8 @@ You can set the Swiftype engine key using the plugins configuration in the book.
     "plugins": ["swiftype"],
     "pluginsConfig": {
         "swiftype": {
-            "token": "utQHy1R2XyiVqDqaZxxx"
+            "token": "utQHy1R2XyiVqDqaZxxx",
+            "version": "2.0.0"
         }
     }
 }
