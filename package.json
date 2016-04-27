@@ -1,9 +1,9 @@
 {
     "name": "gitbook-plugin-swiftype",
     "description": "Swiftype for your gitbook with custom search engine",
-    "version": "0.0.4",
+    "version": "0.1.0",
     "engines": {
-        "gitbook": ">=0.4.6"
+        "gitbook": ">=3.0.0-pre.0"
     },
     "homepage": "https://github.com/billryan/gitbook-plugin-swiftype",
     "repository": {
