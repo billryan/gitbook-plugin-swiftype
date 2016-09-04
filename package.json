@@ -1,7 +1,7 @@
 {
     "name": "gitbook-plugin-swiftype",
     "description": "Swiftype for your gitbook with custom search engine",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "gitbook": ">=3.0.0-pre.0"
     },
@@ -18,7 +18,7 @@
         "properties": {
             "token": {
                 "type": "string",
-                "description": "Swiftype engine key",
+                "description": "Swiftype token key",
                 "required": true
             },
             "version": {
