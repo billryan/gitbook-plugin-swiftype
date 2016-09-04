@@ -14,6 +14,7 @@
             s.src=u;
             e.parentNode.insertBefore(s,e);
         })(window,document,'script','//s.swiftypecdn.com/install/v2/st.js','_st');
-        _st('install', {{ config.pluginsConfig.swiftype.token }}, {{ config.pluginsConfig.swiftype.version }});
+
+        _st('install', '{{ config.pluginsConfig.swiftype.token }}', '{{ config.pluginsConfig.swiftype.version }}');
     </script>
 {% endblock %}
